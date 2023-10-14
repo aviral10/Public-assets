@@ -23,7 +23,7 @@
                         "name": "Aviral",
                         "icon": "https://raw.githubusercontent.com/aviral10/Public-assets/main/faces/aviral_blue.jpg"
                       },
-                      "content": "Click to navigate to a channel\n\n;•;<mention>server-map</mention>;           : You are here \n;•;<mention>about-me</mention>;              : Aviral who? \n;•;<mention>skills</mention>;                      : Know Aviral's skill set \n;•;<mention>projects</mention>;                 : Aviral's cool projects \n;•;<mention>academic</mention>;              : Aviral's acedemic history \n;•;<mention>work-experience</mention>; : Aviral's work experience \n;•;<mention>linked-in</mention>;               : Aviral's socials \n;•;<mention>sketching</mention>;              : Aviral's hobbies \n;",
+                      "content": "Click to navigate to a channel\n\n;•;<mention>server-map</mention>;           : You are here \n;•;<mention>about-me</mention>;              : Aviral who? \n;•;<mention>skills</mention>;                      : Know Aviral's skill set \n;•;<mention>projects</mention>;                 : Aviral's cool projects \n;•;<mention>academic</mention>;              : Aviral's acedemic history \n;•;<mention>work-experience</mention>; : Aviral's work experience \n;•;<mention>linked-in</mention>;               : Aviral's socials \n;•;<mention>sketching</mention>;              : Aviral's hobbies \n;•;<mention>top-messages</mention>;     : I read your messages!\n;",
                       "image": "IMAGE_URL",
                       "messageType": "fancy"
                     }
