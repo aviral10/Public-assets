@@ -355,7 +355,7 @@
                         "icon": "https://raw.githubusercontent.com/aviral10/Public-assets/main/faces/aviral_blue.jpg"
                       },
                       "content": "<headingxl>Juleo</headingxl>;\n\n;<i>Software Development Engineer</i>;\n;December 2023 - Present\n;Location: Gurugram, India\n\n; • Currently working as a ;<b>Software Development Engineer</b>; in the Backend team, driving the development of pivotal ;<i>backend</i>; services that play a key role in shaping and advancing Juleo as a product.\n; • Developing modules for efficient data retrieval from DynamoDB and transforming it into structured JSON format. \n; • The module serves as a critical middleware, seamlessly facilitating data flow to the frontend for optimal rendering.\n; • Skills: Go · Python\n\n",
-                      "image": "https://media.licdn.com/dms/image/D4D0BAQEcSbgiH9iZqQ/company-logo_200_200/0/1695642727754?e=1712188800&v=beta&t=jGUHJk0Dd8Wmlg7dln0vMKYlCOJZcEn_pimdy6MJ5jM",
+                      "image": "https://raw.githubusercontent.com/aviral10/Public-assets/main/work/Juleo.jpeg",
                       "messageType": "fancy"
                     }
                   ]
